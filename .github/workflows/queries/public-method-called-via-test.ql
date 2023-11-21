@@ -1,3 +1,9 @@
+/**
+ * @description Public methods called by tests
+ * @kind problem
+ * @id javascript/public-method-called-via-test
+ * @problem.severity recommendation
+ */
 import javascript
 
 /**
