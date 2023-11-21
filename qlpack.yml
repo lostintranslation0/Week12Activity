@@ -1,0 +1,3 @@
+name: codeql-experiments
+version: 0.0.0
+libraryPathDependencies: codeql-javascript
